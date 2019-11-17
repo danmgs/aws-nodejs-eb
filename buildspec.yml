@@ -28,7 +28,7 @@ phases:
 artifacts:
   files:
     - app.js
-    - static/*
+    - static/**/*
     - views/**/*
     - .ebextensions/**/*
     - package.json
